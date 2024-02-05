@@ -1,0 +1,11 @@
+{
+    "RECIEVERNAME" : {
+        "Email" : "RECIVER EMAIL ID", 
+        "Date of Birth" : {
+            "Day" : "DATE",
+            "Month" : "MONTH",
+            "Year" : "YEAR"
+        }
+    } 
+
+}
